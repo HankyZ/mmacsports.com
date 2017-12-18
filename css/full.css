@@ -1,0 +1,43 @@
+html {
+    padding: 0;
+}
+
+.outter-wrapper {
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0;
+}
+
+.wrapper { 
+	max-width: 1160px; 
+	margin: 0 auto;
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	box-sizing: border-box;
+	padding: 1em 20px;
+}
+
+#comment input.captcha{
+
+	display: inline;
+
+	width: 80px;
+
+	text-align: center;
+
+}
+#comment input.sum {
+
+	display: inline;
+
+	width: 60px;
+
+	text-align: center;
+
+}
+
+span#spambot {
+
+	font-size: 11px;
+
+}
